@@ -43,17 +43,60 @@ class JoseAvila:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,fastapi,flask,postgres,mongodb,docker,git,github,linux,vscode,figma&theme=dark&perline=8" alt="Stack principal" />
+<sub>Cada icono enlaza al repo público donde usé esa tecnología.</sub>
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/LLMs-00C6FF?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Model Context Protocol" />
+**Lenguajes**
+
+  <a href="https://github.com/jse-avl/analisis-resenas-restaurantes" title="Python · analisis-resenas-restaurantes"><img src="https://skillicons.dev/icons?i=py&amp;theme=dark" width="48" height="48" alt="Python" /></a>&nbsp;
+  <a href="https://github.com/jse-avl/ledgerpilot-ai" title="TypeScript · ledgerpilot-ai"><img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="48" height="48" alt="TypeScript" /></a>&nbsp;
+  <a href="https://github.com/jse-avl/SistemaHospitalario" title="JavaScript · SistemaHospitalario"><img src="https://skillicons.dev/icons?i=js&amp;theme=dark" width="48" height="48" alt="JavaScript" /></a>&nbsp;
+  <a href="https://github.com/jse-avl/Semestral" title="PHP · Semestral"><img src="https://skillicons.dev/icons?i=php&amp;theme=dark" width="48" height="48" alt="PHP" /></a>
+
+<br />
+
+**Frontend**
+
+  <a href="https://github.com/jse-avl/Damas" title="React · Damas"><img src="https://skillicons.dev/icons?i=react&amp;theme=dark" width="48" height="48" alt="React" /></a>&nbsp;
+  <a href="https://github.com/jse-avl/ledgerpilot-ai" title="Next.js · ledgerpilot-ai"><img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" width="48" height="48" alt="Next.js" /></a>&nbsp;
+  <a href="https://github.com/jse-avl/formulario-ddc-ssnf" title="Tailwind CSS · formulario-ddc-ssnf"><img src="https://skillicons.dev/icons?i=tailwind&amp;theme=dark" width="48" height="48" alt="Tailwind CSS" /></a>&nbsp;
+  <a href="https://github.com/jse-avl/Damas" title="Three.js · Damas"><img src="https://skillicons.dev/icons?i=threejs&amp;theme=dark" width="48" height="48" alt="Three.js" /></a>&nbsp;
+  <a href="https://github.com/jse-avl/Damas" title="Vite · Damas"><img src="https://skillicons.dev/icons?i=vite&amp;theme=dark" width="48" height="48" alt="Vite" /></a>
+
+<br />
+
+**Backend & datos**
+
+  <a href="https://github.com/jse-avl/SistemaHospitalario" title="Node.js · SistemaHospitalario"><img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" width="48" height="48" alt="Node.js" /></a>&nbsp;
+  <a href="https://github.com/jse-avl/SistemaHospitalario" title="Express · SistemaHospitalario"><img src="https://skillicons.dev/icons?i=express&amp;theme=dark" width="48" height="48" alt="Express" /></a>&nbsp;
+  <a href="https://github.com/jse-avl/bidirectional-sync" title="FastAPI · bidirectional-sync"><img src="https://skillicons.dev/icons?i=fastapi&amp;theme=dark" width="48" height="48" alt="FastAPI" /></a>&nbsp;
+  <a href="https://github.com/jse-avl/inventory-forecast" title="Flask · inventory-forecast"><img src="https://skillicons.dev/icons?i=flask&amp;theme=dark" width="48" height="48" alt="Flask" /></a>&nbsp;
+  <a href="https://github.com/jse-avl/ledgerpilot-ai" title="PostgreSQL · ledgerpilot-ai"><img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="48" height="48" alt="PostgreSQL" /></a>
+
+<br />
+
+**Datos & infraestructura**
+
+  <a href="https://github.com/jse-avl/Damas" title="MongoDB · Damas"><img src="https://skillicons.dev/icons?i=mongodb&amp;theme=dark" width="48" height="48" alt="MongoDB" /></a>&nbsp;
+  <a href="https://github.com/jse-avl/formulario-ddc-ssnf" title="Prisma · formulario-ddc-ssnf"><img src="https://skillicons.dev/icons?i=prisma&amp;theme=dark" width="48" height="48" alt="Prisma" /></a>&nbsp;
+  <a href="https://github.com/jse-avl/analisis-resenas-restaurantes" title="scikit-learn · analisis-resenas-restaurantes"><img src="https://skillicons.dev/icons?i=sklearn&amp;theme=dark" width="48" height="48" alt="scikit-learn" /></a>&nbsp;
+  <a href="https://github.com/jse-avl/gestion-hospitalaria" title="Docker · gestion-hospitalaria"><img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" width="48" height="48" alt="Docker" /></a>&nbsp;
+  <a href="https://github.com/jse-avl/Damas" title="Bun · Damas"><img src="https://skillicons.dev/icons?i=bun&amp;theme=dark" width="48" height="48" alt="Bun" /></a>
+
+<br /><br />
+
+  <a href="https://github.com/jse-avl/financial-automation" title="Pandas · financial-automation"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" alt="Pandas" /></a>
+  <a href="https://github.com/jse-avl/analisis-resenas-restaurantes" title="NumPy · analisis-resenas-restaurantes"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" /></a>
+  <a href="https://github.com/jse-avl/inventory-forecast" title="scikit--learn · inventory-forecast"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn" /></a>
+  <a href="https://github.com/jse-avl/financial-automation" title="Streamlit · financial-automation"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit" /></a>
+  <a href="https://github.com/jse-avl/analisis-restaurantes-ml" title="Power%20BI · analisis-restaurantes-ml"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" alt="Power BI" /></a>
+  <a href="https://github.com/jse-avl/ledgerpilot-ai" title="LLMs · ledgerpilot-ai"><img src="https://img.shields.io/badge/LLMs-00C6FF?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="LLMs" /></a>
+  <a href="https://github.com/jse-avl/ledgerpilot-ai" title="MCP · ledgerpilot-ai"><img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white" alt="Model Context Protocol" /></a>
+
+<br /><br />
+
+<sub>También trabajo con <strong>Git</strong>, <strong>GitHub</strong>, <strong>Linux</strong>, <strong>VS Code</strong> y <strong>Figma</strong>.</sub>
 
 </div>
 
