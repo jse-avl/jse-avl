@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00c6ff&height=220&section=header&text=Jos%C3%A9%20%C3%81vila&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20%7C%20AI%20%7C%20Automation&descAlignY=57&descSize=18" alt="José Ávila" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00c6ff&height=220&section=header&text=Jos%C3%A9%20Avila&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20%7C%20AI%20%7C%20Automation&descAlignY=57&descSize=18" alt="José Avila" />
 
 <a href="https://github.com/jse-avl">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=620&lines=Hola%2C+soy+Jos%C3%A9+%F0%9F%91%8B;Data+Science+%7C+IA+%7C+Automatizaci%C3%B3n;Python+%7C+TypeScript+%7C+LLMs+%7C+MCP;Construyo+cosas+que+ahorran+horas+de+trabajo" alt="Typing SVG" />
