@@ -61,8 +61,12 @@ class JoseAvila:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jse-avl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=00C6FF&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jse-avl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=c9d1d9&langs_count=8" alt="Lenguajes más usados" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jse-avl&theme=tokyonight" alt="Estadísticas generales" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jse-avl&theme=tokyonight" alt="Lenguajes por commits" />
+
+<br /><br />
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jse-avl&theme=tokyonight" alt="Resumen del perfil" />
 
 <br /><br />
 
@@ -70,11 +74,7 @@ class JoseAvila:
 
 <br /><br />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jse-avl&bg_color=0D1117&color=00C6FF&line=00C6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Actividad%20de%20contribuciones" alt="Gráfico de actividad" />
-
-<br />
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=jse-avl&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trofeos de GitHub" />
+<img width="100%" src="https://ghchart.rshah.org/00c6ff/jse-avl" alt="Gráfico de contribuciones" />
 
 </div>
 
