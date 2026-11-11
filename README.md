@@ -51,8 +51,6 @@ class JoseAvila:
 
   <a href="https://github.com/jse-avl/analisis-resenas-restaurantes" title="Python · analisis-resenas-restaurantes"><img src="https://skillicons.dev/icons?i=py&amp;theme=dark" width="48" height="48" alt="Python" /></a>&nbsp;
   <a href="https://github.com/jse-avl/ledgerpilot-ai" title="TypeScript · ledgerpilot-ai"><img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="48" height="48" alt="TypeScript" /></a>&nbsp;
-  <a href="https://github.com/jse-avl/SistemaHospitalario" title="JavaScript · SistemaHospitalario"><img src="https://skillicons.dev/icons?i=js&amp;theme=dark" width="48" height="48" alt="JavaScript" /></a>&nbsp;
-  <a href="https://github.com/jse-avl/Semestral" title="PHP · Semestral"><img src="https://skillicons.dev/icons?i=php&amp;theme=dark" width="48" height="48" alt="PHP" /></a>
 
 <br />
 
@@ -60,7 +58,6 @@ class JoseAvila:
 
   <a href="https://github.com/jse-avl/Damas" title="React · Damas"><img src="https://skillicons.dev/icons?i=react&amp;theme=dark" width="48" height="48" alt="React" /></a>&nbsp;
   <a href="https://github.com/jse-avl/ledgerpilot-ai" title="Next.js · ledgerpilot-ai"><img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" width="48" height="48" alt="Next.js" /></a>&nbsp;
-  <a href="https://github.com/jse-avl/formulario-ddc-ssnf" title="Tailwind CSS · formulario-ddc-ssnf"><img src="https://skillicons.dev/icons?i=tailwind&amp;theme=dark" width="48" height="48" alt="Tailwind CSS" /></a>&nbsp;
   <a href="https://github.com/jse-avl/Damas" title="Three.js · Damas"><img src="https://skillicons.dev/icons?i=threejs&amp;theme=dark" width="48" height="48" alt="Three.js" /></a>&nbsp;
   <a href="https://github.com/jse-avl/Damas" title="Vite · Damas"><img src="https://skillicons.dev/icons?i=vite&amp;theme=dark" width="48" height="48" alt="Vite" /></a>
 
@@ -68,8 +65,6 @@ class JoseAvila:
 
 **Backend & datos**
 
-  <a href="https://github.com/jse-avl/SistemaHospitalario" title="Node.js · SistemaHospitalario"><img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" width="48" height="48" alt="Node.js" /></a>&nbsp;
-  <a href="https://github.com/jse-avl/SistemaHospitalario" title="Express · SistemaHospitalario"><img src="https://skillicons.dev/icons?i=express&amp;theme=dark" width="48" height="48" alt="Express" /></a>&nbsp;
   <a href="https://github.com/jse-avl/bidirectional-sync" title="FastAPI · bidirectional-sync"><img src="https://skillicons.dev/icons?i=fastapi&amp;theme=dark" width="48" height="48" alt="FastAPI" /></a>&nbsp;
   <a href="https://github.com/jse-avl/inventory-forecast" title="Flask · inventory-forecast"><img src="https://skillicons.dev/icons?i=flask&amp;theme=dark" width="48" height="48" alt="Flask" /></a>&nbsp;
   <a href="https://github.com/jse-avl/ledgerpilot-ai" title="PostgreSQL · ledgerpilot-ai"><img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="48" height="48" alt="PostgreSQL" /></a>
@@ -79,7 +74,6 @@ class JoseAvila:
 **Datos & infraestructura**
 
   <a href="https://github.com/jse-avl/Damas" title="MongoDB · Damas"><img src="https://skillicons.dev/icons?i=mongodb&amp;theme=dark" width="48" height="48" alt="MongoDB" /></a>&nbsp;
-  <a href="https://github.com/jse-avl/formulario-ddc-ssnf" title="Prisma · formulario-ddc-ssnf"><img src="https://skillicons.dev/icons?i=prisma&amp;theme=dark" width="48" height="48" alt="Prisma" /></a>&nbsp;
   <a href="https://github.com/jse-avl/analisis-resenas-restaurantes" title="scikit-learn · analisis-resenas-restaurantes"><img src="https://skillicons.dev/icons?i=sklearn&amp;theme=dark" width="48" height="48" alt="scikit-learn" /></a>&nbsp;
   <a href="https://github.com/jse-avl/gestion-hospitalaria" title="Docker · gestion-hospitalaria"><img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" width="48" height="48" alt="Docker" /></a>&nbsp;
   <a href="https://github.com/jse-avl/Damas" title="Bun · Damas"><img src="https://skillicons.dev/icons?i=bun&amp;theme=dark" width="48" height="48" alt="Bun" /></a>
@@ -125,12 +119,12 @@ class JoseAvila:
 
 | Proyecto | Qué hace | Stack |
 | :--- | :--- | :--- |
-| **[ledgerpilot-ai](https://github.com/jse-avl/ledgerpilot-ai)** | Agente de cuentas por pagar con núcleo financiero determinista, servidor MCP y evals offline sin API key | Next.js · TypeScript · PostgreSQL · MCP |
-| **[analisis-resenas-restaurantes](https://github.com/jse-avl/analisis-resenas-restaurantes)** | Pipeline ETL + análisis de sentimiento por aspecto con LLMs + clustering + dashboard | Python · LLMs · Streamlit |
+| **[ledgerpilot-ai](https://github.com/jse-avl/ledgerpilot-ai)** | Agente de cuentas por pagar con núcleo financiero determinista, servidor MCP, UI bilingüe y evals offline sin API key | Next.js · TypeScript · PostgreSQL · MCP |
 | **[financial-automation](https://github.com/jse-avl/financial-automation)** | Conciliación CxC/CxP, conversión USD, reporte Excel y dashboard | Python · Pandas · Streamlit |
-| **[sap-po-automation](https://github.com/jse-avl/sap-po-automation)** | Automatización de requisiciones a órdenes de compra simulando SAP MM | Python · FastAPI |
-| **[Damas](https://github.com/jse-avl/Damas)** | Damas 3D en tiempo real | React Three Fiber · TanStack Start · Hono |
-| **[SistemaHospitalario](https://github.com/jse-avl/SistemaHospitalario)** | Gestión de citas médicas con roles, multi-sucursal y reasignación inteligente | JavaScript · TypeScript |
+| **[sap-po-automation](https://github.com/jse-avl/sap-po-automation)** | Requisiciones a órdenes de compra con reglas de negocio y flujos de aprobación (simula SAP MM) | Python · FastAPI |
+| **[bidirectional-sync](https://github.com/jse-avl/bidirectional-sync)** | Motor de sincronización bidireccional entre GitHub Issues y cualquier API REST | Python · FastAPI · Docker |
+| **[analisis-resenas-restaurantes](https://github.com/jse-avl/analisis-resenas-restaurantes)** | ETL + sentimiento por aspecto con LLMs + clustering + dashboard | Python · LLMs · Streamlit |
+| **[gestion-hospitalaria](https://github.com/jse-avl/gestion-hospitalaria)** | Gestión de citas médicas con roles, multi-sucursal y reasignación inteligente | TypeScript · Docker |
 
 ## 🐍 Contribuciones
 
