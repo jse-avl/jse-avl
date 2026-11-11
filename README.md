@@ -145,14 +145,12 @@ class JoseAvila:
 <a href="https://github.com/jse-avl">
   <img src="https://img.shields.io/badge/GitHub-jse--avl-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<!-- Descomenta y ajusta tus enlaces:
-<a href="https://linkedin.com/in/tu-usuario">
-  <img src="https://img.shields.io/badge/LinkedIn-tu--usuario-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/jose-avila-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-jose--avila--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:tu-correo@ejemplo.com">
-  <img src="https://img.shields.io/badge/Email-tu--correo%40ejemplo.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:avilajoser8@gmail.com">
+  <img src="https://img.shields.io/badge/Email-avilajoser8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
--->
 
 </div>
 
